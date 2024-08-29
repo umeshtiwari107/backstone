@@ -1,1 +1,2 @@
-# backstone
+/api/bookings/
+/api/registration/# backstone
